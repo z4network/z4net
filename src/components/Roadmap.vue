@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="section-title">Development Roadmap</h2>
       <p class="section-description">
-        Our journey to build the ultimate gaming platform with the community
+        Our journey to build the ultimate blockchain ecosystem platform with the community
       </p>
       
       <div class="timeline">

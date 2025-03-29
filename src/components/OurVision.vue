@@ -3,8 +3,8 @@
     <div class="container">
       <h2 class="section-title">Our Vision</h2>
       <p class="section-description">
-        Sonic is building the next generation gaming platform powered by blockchain technology,
-        bringing true digital ownership and play-to-earn mechanics to millions of players worldwide.
+        Z4Network is building the next-generation blockchain ecosystem platform powered by Z4 blockchain technology,
+        bringing the real-world asset ownership with the digital world and integrating play-to-earn mechanics for millions of investor and users worldwide.
       </p>
       
       <div class="vision-cards">

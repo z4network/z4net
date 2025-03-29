@@ -7,7 +7,7 @@
             <img src="@/assets/logo.svg" alt="Sonic Game" />
           </div>
           <p class="tagline">
-            The future of Block Chain Eco-System
+            The Future of Blockchain Ecosystem
           </p>
           <div class="social-links">
             <a 
@@ -54,10 +54,10 @@
 
 <script setup lang="ts">
 const socialLinks = {
-  twitter: 'https://twitter.com/sonicgame',
-  discord: 'https://discord.gg/sonicgame',
-  telegram: 'https://t.me/sonicgame',
-  github: 'https://github.com/sonicgame'
+  twitter: 'https://twitter.com/z4network',
+  discord: 'https://discord.gg/z4network',
+  telegram: 'https://t.me/z4network',
+  github: 'https://github.com/z4network'
 }
 
 const footerLinks = [
@@ -65,7 +65,7 @@ const footerLinks = [
     title: 'Product',
     links: [
       { label: 'Features', url: '/features' },
-      { label: 'Games', url: '/games' },
+      { label: 'Blockchain', url: '/blockchain' },
       { label: 'Marketplace', url: '/marketplace' },
       { label: 'Roadmap', url: '/roadmap' }
     ]
@@ -76,7 +76,7 @@ const footerLinks = [
       { label: 'Documentation', url: '/docs' },
       { label: 'API', url: '/api' },
       { label: 'SDK', url: '/sdk' },
-      { label: 'GitHub', url: 'https://github.com/sonicgame' }
+      { label: 'GitHub', url: 'https://github.com/z4network' }
     ]
   },
   {

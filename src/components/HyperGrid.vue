@@ -1,9 +1,9 @@
 <template>
   <section class="hyper-grid">
     <div class="container">
-      <h2 class="section-title">Explore the Sonic Universe</h2>
+      <h2 class="section-title">Explore the Z4 network Universe</h2>
       <p class="section-description">
-        Discover the vast world of Sonic with unique characters, items and locations
+        Discover the vast world of Z4 Network with unique characters, items and locations
       </p>
       
       <div class="grid-container">
