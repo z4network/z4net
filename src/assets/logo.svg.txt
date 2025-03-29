@@ -1,0 +1,14 @@
+<svg width="120" height="45" viewBox="0 0 120 45" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <rect width="120" height="45" fill="black"/>
+    <text x="10" y="30" font-family="Arial, sans-serif" font-size="18" fill="#00ffcc"
+          filter="url(#neonGlow)" font-weight="bold">Z4 NETWORK</text>
+</svg>
