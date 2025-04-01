@@ -18,7 +18,7 @@
               rel="noopener noreferrer"
             >
               <img 
-                :src="`@/assets/icons/${platform}.svg`" 
+                :src="`/icons/${platform}.svg`" 
                 :alt="platform" 
                 class="social-icon"
               />
